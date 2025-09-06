@@ -29,19 +29,13 @@ You can check the live version of the project here : [CNAPP Dashboard](https://c
 
 ## Setup Instructions
 
-1. **Clone the repository:**
 
-   ```bash
-   git clone https://github.com/rd273001/CNAPP-Dashboard.git
-   cd CNAPP-Dashboard
-   ```
-
-2. **Install dependencies:**
+1. **Install dependencies:**
    Using npm: ```npm install```
    OR
    Using yarn: ```yarn```
 
-3. **Start the application:**
+2. **Start the application:**
    Using npm: ```npm run dev```
    OR
    Using yarn: ```yarn dev```
